@@ -2,7 +2,7 @@
  * basics.c
  *
  * Created: 22-apr-22 11:17:25 PM
- * Author : kanishkar
+ * Author : kanishkar A
  */ 
 #define F_CPU 16000000
 #include <avr/io.h>
