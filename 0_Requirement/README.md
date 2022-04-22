@@ -1,19 +1,19 @@
 * HARDWARE REQUIREMENTS :
 
--Ram 2GB or higher.
+1.Ram 2GB or higher.
 
--Minimum 250GB hard disk space.
+2.Minimum 250GB hard disk space.
 
--Intel/AMD powered system.
+3.Intel/AMD powered system.
 
--Processor speed 2.0 GHZ or higher
+4.Processor speed 2.0 GHZ or higher
 
 
 * SOFTWARE USED :
 
--SimulIDE
+#SimulIDE
 
--Visual Studio
+#Visual Studio
 
 * INTRODUCTION :
 
