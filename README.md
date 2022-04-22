@@ -1,4 +1,4 @@
-# M2_Blinkying-LEDs
+# M2_Blinking-LEDs
 
 
 
