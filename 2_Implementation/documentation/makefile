@@ -1,6 +1,5 @@
 DOXY_FILE = Blinky-LEDs
 BUILD_FILE = html
-
 FixPath = $(subst /,\,$1)
 
 doc:
