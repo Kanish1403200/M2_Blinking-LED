@@ -1,4 +1,4 @@
-DOXY_FILE = Blinky Led
+DOXY_FILE = Blinking led
 
 BUILD_FILE = html
 
