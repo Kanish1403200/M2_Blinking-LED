@@ -1,1 +1,4 @@
-
+| SI.No | DESCRIPTION | ON MODE | OFF MODE | STATUS |
+|:----|:-----------------|:--------|:---------|:---------|
+|1|    When the VOLTAGE is applied | LED | BUZZER | PASS |
+|2|    When the VOLTAGE is not applied | BUZZER | LED | PASS |
