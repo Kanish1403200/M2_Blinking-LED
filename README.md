@@ -1,1 +1,7 @@
 # M2_Blinky-LEDs
+
+
+
+Codacy - Static Analysis ![codacy badge]Codacy Badge
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/640252ba8adc41cf82a21d0b0d32896d)](https://www.codacy.com/gh/Kanish1403200/M2_Blinky-LEDs/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Kanish1403200/M2_Blinky-LEDs&amp;utm_campaign=Badge_Grade)
+
