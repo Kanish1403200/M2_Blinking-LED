@@ -10,6 +10,6 @@
 
 
 
-Cppcheck - Static Analysis
+*Cppcheck - Static Analysis
 ![Quality](https://github.com/Kanish1403200/M2_BlinkingLEDs/blob/main/.github/workflows/Build%20on%20linux.yml)
 
