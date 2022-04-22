@@ -1,4 +1,5 @@
 * HARDWARE REQUIREMENTS :
+
 -Ram 2GB or higher.
 
 -Minimum 250GB hard disk space.
